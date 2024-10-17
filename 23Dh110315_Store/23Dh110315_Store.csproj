@@ -231,6 +231,12 @@
     <Content Include="Areas\Admin\Views\Categories\Details.cshtml" />
     <Content Include="Areas\Admin\Views\Categories\Edit.cshtml" />
     <Content Include="Areas\Admin\Views\Categories\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Categories\PVCreDitCategory.cshtml" />
+    <Content Include="Areas\Admin\Views\Categories1\Create.cshtml" />
+    <Content Include="Areas\Admin\Views\Categories1\Delete.cshtml" />
+    <Content Include="Areas\Admin\Views\Categories1\Details.cshtml" />
+    <Content Include="Areas\Admin\Views\Categories1\Edit.cshtml" />
+    <Content Include="Areas\Admin\Views\Categories1\Index.cshtml" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
